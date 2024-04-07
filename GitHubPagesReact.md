@@ -138,4 +138,4 @@ At this point, the local repository has a "remote" whose URL points to the GitHu
 # Referências
 
 1. [ Repositório Original (em inglês) ](https://github.com/gitname/react-gh-pages)
-2. [[ Créditos ao criador do arquivo](https://github.com/ph-bicalho/gh-pages-no-react/edit/main/readme.md)]
+2. [ Créditos ao criador do arquivo](https://github.com/ph-bicalho)
