@@ -1,6 +1,5 @@
 # Título <a name="ancora"></a>
-#123
-@Lisboa
+
 ## Subtítulo
 
 ### Subtítulo de nível 3
