@@ -101,6 +101,7 @@ Código em bloco
 <p align="right">
   Seu texto ou conteúdo aqui.
 </p>
+
  - `<html>...</html>`  
  - Permite a inclusão de código HTML.
 
