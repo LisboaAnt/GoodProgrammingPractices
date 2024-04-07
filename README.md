@@ -95,6 +95,7 @@ Código em bloco
 <p align="center">
   Seu texto ou conteúdo aqui.
 </p>
+<span style="color:blue">Este texto será azul.</span>
 
  - `<html>...</html>`  
  - Permite a inclusão de código HTML.
