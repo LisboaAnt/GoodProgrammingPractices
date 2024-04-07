@@ -1,4 +1,4 @@
-# Boas Práticas de Programação
+# Boas Práticas de Programação:computer:
 
 Este repositório contém projetos isolados do Youtube sobre boas práticas de programação.
 
@@ -11,3 +11,8 @@ Neste projeto, você aprenderá como hospedar seu site gratuitamente usando o Gi
 ### [Introdução ao Markdown + GitHub: Configurando README.md](https://github.com/LisboaAnt/GoodProgrammingPractices/blob/main/MarkdownTutorial.md)
 
 Este projeto é uma introdução ao Markdown e ao GitHub, mostrando como configurar um arquivo README.md. Aprenda os conceitos básicos de Markdown e como utilizá-lo para criar documentação para seus projetos. Assista ao vídeo no [YouTube](https://youtu.be/1M4FE46nzxo).
+
+# Contact
+For further information about the project or any inquiries, feel free to reach out:
+
+- Email: antoniol.carvalho49@gmail.com
