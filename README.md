@@ -92,10 +92,15 @@ Código em bloco
 
 
 ### HTML Embutido
+<p align="left">
+  Seu texto ou conteúdo aqui.
+</p>
 <p align="center">
   Seu texto ou conteúdo aqui.
 </p>
-
+<p align="right">
+  Seu texto ou conteúdo aqui.
+</p>
  - `<html>...</html>`  
  - Permite a inclusão de código HTML.
 
