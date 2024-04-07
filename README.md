@@ -67,7 +67,9 @@ Código em bloco
  - `> Bloco de notas`
    - Cria um bloco de notas.
 
-> Bloco de notas
+> Bloco de notas <br> próxima linha
+>>>
+
 
  ### Links de Referência
 
@@ -77,7 +79,17 @@ Código em bloco
 [Google][1] is a popular search engine.
 
 [1]: https://www.google.com "Google"
- 
+
+[OpenAI] é perfeita!
+
+[OpenAI]: https://www.openai.com "OpenAI"
+
+<!-- ### Comentário -->
+<!-- Este é um comentário HTML -->
+
+### Vídeo
+![Alt text](https://youtu.be/JKZ4W1SSgy4?si=ErIrWHAd0de5GwGM)
+
 ### HTML Embutido
 
  - `<html>...</html>`  
