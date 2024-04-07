@@ -1,4 +1,4 @@
- ### Texto{#ancora}
+ ### Texto<a name="ancora"></a>
 
 - `# Título`
 - Cria um título de nível 1.
