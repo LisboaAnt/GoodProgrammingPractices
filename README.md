@@ -88,7 +88,8 @@ Código em bloco
 <!-- Este é um comentário HTML -->
 
 ### Vídeo
-![Alt text](https://youtu.be/JKZ4W1SSgy4?si=ErIrWHAd0de5GwGM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JKZ4W1SSgy4" frameborder="0" allowfullscreen></iframe>
+
 
 ### HTML Embutido
 
