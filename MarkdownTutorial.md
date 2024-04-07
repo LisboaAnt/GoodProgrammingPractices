@@ -88,7 +88,7 @@ Código em bloco
 <!-- Este é um comentário HTML -->
 
 ### Vídeo
-[![Alt text](https://img.youtube.com/vi/JKZ4W1SSgy4/0.jpg)](https://www.youtube.com/watch?v=JKZ4W1SSgy4)
+[![Alt text](https://img.youtube.com/vi/1M4FE46nzxo/0.jpg)](https://youtu.be/1M4FE46nzxo)
 
 
 ### HTML Embutido
