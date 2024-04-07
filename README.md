@@ -1,4 +1,4 @@
-# Boas Práticas de Programação:computer:
+# Boas Práticas de Programação :computer:
 
 Este repositório contém projetos isolados do Youtube sobre boas práticas de programação.
 
